@@ -1,0 +1,28 @@
+body{
+    background-image: url('https://www.areasofmyexpertise.com/wp-content/uploads/2017/12/seniors-1505943_1920-1100x731.jpg');
+    background-size: 1350px, 300px;
+}
+
+.carsual{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    height: 150px;
+    margin-top: 200px;
+    margin-bottom: 400px;
+
+}   
+.about{
+    background-color:rgb(255, 170, 220);
+    margin-top: 50px;
+}
+
+
+#button{
+    display: flex;
+     
+}
+.aboutlogo{
+    text-decoration: none;
+}
